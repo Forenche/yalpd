@@ -1,0 +1,11 @@
+# Base dir
+path: 'datasets\license_plate_dataset'
+
+# Relative dirs
+train: train\images
+test: test\images
+val: valid\images
+
+# Classes
+names:
+    0: license plate
